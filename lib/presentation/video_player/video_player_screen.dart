@@ -16,7 +16,7 @@ class VideoPlayerScreen extends StatefulHookConsumerWidget {
   }) : super(key: key);
 
   final String fileUrl =
-      "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4";
+      "https://mazwai.com/videvo_files/video/free/2015-11/small_watermarked/9th-may_preview.webm";
   final String title;
 
   @override
